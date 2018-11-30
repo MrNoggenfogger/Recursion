@@ -1,0 +1,19 @@
+Complexity Analysis
+ Complexity Analysis examines the impact on a method's run time when increased amounts of data are sent into it.
+
+ What is 'Big-0' notation?
+
+ A way to express the relationship between run-time, and the amount of data sent through.
+
+ Relationship     |  Big 'O' Notation    |  Method Examples   |
+ -----------------|----------------------|--------------------|
+ Constant - 1     |  O(1)                |                    |
+ ---------------- |----------------------|--------------------|
+ Logarithmic - 2  |  O(log n)            |                    |
+ -----------------|----------------------|--------------------|
+ Linear - 3       |  O(n)                |  Factorial         |
+ -----------------|----------------------|--------------------|
+ Quadratic - 4    |  O(n²)               |                    |
+ -----------------|----------------------|--------------------|
+ Exponential - 5  |  O(2^n)              |  Fibonacci         |
+ --------------------------------------------------------------
